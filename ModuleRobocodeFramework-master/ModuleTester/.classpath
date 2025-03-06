@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/guava-12.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/roborunner-1.2.3.jar"/>
+	<classpathentry kind="lib" path="robocodes/r1/libs/codesize-1.1.jar"/>
+	<classpathentry kind="lib" path="robocodes/r1/libs/picocontainer-2.6.jar"/>
+	<classpathentry kind="lib" path="robocodes/r1/libs/robocode.battle-1.7.3.0.jar"/>
+	<classpathentry kind="lib" path="robocodes/r1/libs/robocode.core-1.7.3.0.jar"/>
+	<classpathentry kind="lib" path="robocodes/r1/libs/robocode.host-1.7.3.0.jar"/>
+	<classpathentry kind="lib" path="robocodes/r1/libs/robocode.jar"/>
+	<classpathentry kind="lib" path="robocodes/r1/libs/robocode.repository-1.7.3.0.jar"/>
+	<classpathentry kind="lib" path="robocodes/r1/libs/robocode.sound-1.7.3.0.jar"/>
+	<classpathentry kind="lib" path="robocodes/r1/libs/robocode.ui-1.7.3.0.jar"/>
+	<classpathentry kind="lib" path="robocodes/r1/libs/robocode.ui.editor-1.7.3.0.jar"/>
+	<classpathentry kind="lib" path="robocodes/r1/libs/roborumble.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature automatic="selected" name="Module"/>
+	<feature automatic="selected" name="Radar"/>
+	<feature manual="selected" name="SpinningRadar"/>
+	<feature automatic="unselected" name="MouseRadar"/>
+	<feature automatic="selected" name="Targeting"/>
+	<feature manual="selected" name="HeadOnTargeting"/>
+	<feature automatic="unselected" name="LinearTargeting"/>
+	<feature automatic="unselected" name="MouseTargeting"/>
+	<feature automatic="selected" name="Movement"/>
+	<feature automatic="unselected" name="NoMovement"/>
+	<feature manual="selected" name="KeyboardMovement"/>
+	<feature automatic="unselected" name="AutoMovement"/>
+	<feature automatic="unselected" name="Cornering"/>
+	<feature automatic="unselected" name="Line"/>
+	<feature automatic="selected" name="SelectEnemy"/>
+	<feature manual="selected" name="WeakestSelectEnemy"/>
+	<feature automatic="unselected" name="StrongestSelectEnemy"/>
+	<feature automatic="unselected" name="ClosestSelectEnemy"/>
+	<feature automatic="selected" name="Gun"/>
+	<feature automatic="unselected" name="MaximumPowerGun"/>
+	<feature automatic="unselected" name="NoFireGun"/>
+	<feature manual="selected" name="MouseClickGun"/>
+</configuration>
