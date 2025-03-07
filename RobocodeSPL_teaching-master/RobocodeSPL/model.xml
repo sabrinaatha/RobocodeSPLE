@@ -18,6 +18,11 @@
 			<alt abstract="true" mandatory="true" name="Radar">
 				<feature name="SpinningRadar"/>
 				<feature name="MouseRadar"/>
+				<feature name="NoRadar">
+					<description>
+						NoRadar
+					</description>
+				</feature>
 			</alt>
 			<alt abstract="true" mandatory="true" name="Targeting">
 				<feature name="HeadOnTargeting"/>

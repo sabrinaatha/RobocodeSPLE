@@ -136,6 +136,7 @@ public abstract class Module extends TeamRobot {
 			while (i.hasNext())
 				i.next().listen(e);
 		}
+		System.out.println("Input diterima: " + e.toString());
 	}
 
 	private void listenInputEvent(InputEvent e) {

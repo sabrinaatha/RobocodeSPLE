@@ -32,8 +32,8 @@ public   class  ModuleBot  extends Module {
 	}
 
 	
-	protected Radar getSelectedRadar() {
-		return new MouseRadar(this);
+	protected Radar getSelectedRadar() {		
+		return new NoRadar(this);
 	}
 
 	
@@ -53,7 +53,7 @@ public   class  ModuleBot  extends Module {
 
 	
 	protected Gun getSelectedGun() {		
-		return new CeaseFire(this);
+		return new Maximum(this);
 	}
 
 
